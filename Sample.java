@@ -2,7 +2,7 @@ public class Sample{
 
 public static void main(String[] args){
 
-System.out.println("not a sample java program ");
+System.out.println("A sample java program ");
  
 }
 
