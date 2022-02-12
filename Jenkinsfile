@@ -9,9 +9,7 @@ pipeline {
                 sh 'java HelloWorld'
                 sh '''#!/bin/sh
 
-echo "Hey folk"
 
-ls -la'''
                 
 
             }
