@@ -5,8 +5,8 @@ pipeline {
             steps {
                 checkout scm
 
-                sh 'javac HelloWorld.java'
-                sh 'java HelloWorld'
+                sh 'javac Sample.java'
+                sh 'java Sample'
                 sh '''#!/bin/sh
 
 
