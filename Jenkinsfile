@@ -7,7 +7,7 @@ pipeline {
 
                 sh 'javac Sample.java'
                 sh 'java Sample'
-                sh '''#!/bin/sh
+                sh '''#!/bin/sh'''
 
 
                 
