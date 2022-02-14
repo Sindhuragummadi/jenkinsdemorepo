@@ -9,7 +9,7 @@ pipeline {
                 sh 'java Sample'
                 sh '''#!/bin/sh
 
-echo "This a sample echo message,Hello"
+echo "This a sample simple echo message,Hello"
 
 ls -la'''
                 
